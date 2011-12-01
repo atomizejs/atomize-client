@@ -7,7 +7,7 @@
         "url": "https://github.com/atomizejs/atomize-client.git"
     },
     "main": "index",
-    "description": "Client library for atomize: JavaScript DSTM",
+    "description": "Client library for AtomizeJS: JavaScript DSTM",
     "dependencies": {
         "cereal": "*",
         "sockjs": ">=0.1.0"
