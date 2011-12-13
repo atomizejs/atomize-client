@@ -12,5 +12,8 @@
         "cereal": ">=0.0.7",
         "sockjs": ">=0.1.0"
     },
+    "devDependencies": {
+        "nodeunit": "*"
+    },
     "homepage": "http://atomizejs.github.com/"
 }
