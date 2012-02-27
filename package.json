@@ -1,12 +1,15 @@
 {
     "name": "atomize-client",
     "author": "Matthew Sackman",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "repository": {
         "type": "git",
         "url": "git://github.com/atomizejs/atomize-client.git"
     },
     "main": "index",
+    "bin": {
+        "atomize-translate": "./lib/transform.js"
+    },
     "description": "Client library for AtomizeJS: JavaScript DSTM",
     "dependencies": {
         "cereal": ">=0.0.7",
