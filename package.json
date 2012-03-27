@@ -1,7 +1,7 @@
 {
     "name": "atomize-client",
     "author": "Matthew Sackman",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "repository": {
         "type": "git",
         "url": "git://github.com/atomizejs/atomize-client.git"
@@ -18,5 +18,9 @@
     "devDependencies": {
         "nodeunit": "*"
     },
-    "homepage": "http://atomizejs.github.com/"
+    "homepage": "http://atomizejs.github.com/",
+    "keywords": ["software transactional memory", "stm",
+                 "distribution", "synchronisation", "synchronization",
+                 "rpc", "remote procedure call"
+                ]
 }
