@@ -12,7 +12,7 @@
     },
     "description": "Client library for AtomizeJS: JavaScript DSTM",
     "dependencies": {
-        "cereal": ">=0.0.7",
+        "cereal": ">=0.1.0",
         "sockjs": ">=0.1.0"
     },
     "devDependencies": {
