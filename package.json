@@ -1,7 +1,7 @@
 {
     "name": "atomize-client",
     "author": "Matthew Sackman",
-    "version": "0.4.13",
+    "version": "0.4.14",
     "repository": {
         "type": "git",
         "url": "git://github.com/atomizejs/atomize-client.git"
@@ -12,7 +12,7 @@
     },
     "description": "Client library for AtomizeJS: JavaScript DSTM",
     "dependencies": {
-        "cereal": ">=0.1.0",
+        "cereal": ">=0.2.0",
         "sockjs": ">=0.1.0"
     },
     "devDependencies": {
