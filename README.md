@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/atomizejs/atomize-client.png)](http://travis-ci.org/atomizejs/atomize-client)
 # Atomize-client
 
 This is the client library for the Atomize DSTM JavaScript project.
